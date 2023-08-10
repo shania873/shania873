@@ -38,12 +38,12 @@
 
 ---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shania873)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shania873&theme=dark&hide_border=true" width="400">
 </p>
 
+---
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shania873)](https://github.com/anuraghazra/github-readme-stats)
 
