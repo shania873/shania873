@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 🚀 Design and Code has the same importance for me 🎨 | Full-Stack Developer and Graphic Designer with a Passion for Creative Solutions 💡 | Turning Ideas into Reality, One Line at a Time 🌟 
-### | Super Curious and Always Eager to Learn 📚
+### 🚀 Design and Code has the same importance for me 🎨 | Full-Stack Developer and Graphic Designer with a Passion for Creative Solutions 💡 | Turning Ideas into Reality, One Line at a Time 🌟 | Super Curious and Always Eager to Learn 📚
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
