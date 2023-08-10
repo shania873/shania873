@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/shania873/shania873/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/shania873/shania873/blob/output/github-contribution-grid-snake.svg)
