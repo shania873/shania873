@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shania873&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shania873&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation]
 (https://github.com/shania873/shania873/blob/output/github-contribution-grid-snake.svg)
