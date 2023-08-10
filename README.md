@@ -32,17 +32,10 @@
 ---
 
 <p align="center">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shania873&layout=compact&theme=vision-friendly-dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shania873&theme=dark&hide_border=true" width="400">
 </p>
 
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shania873&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shania873&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
