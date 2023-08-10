@@ -1,13 +1,11 @@
 ### Hi there 👋
-🚀 Exploring the Intersection of Design and Code 🎨 | Full-Stack Developer with a Passion for Creative Solutions 💡 | Turning Ideas into Reality, One Line at a Time 🌟 | Super Curious and Always Eager to Learn 📚
+🚀 Exploring the Intersection of Design and Code 🎨 | Full-Stack Developer and Infographic Designer with a Passion for Creative Solutions 💡 | Turning Ideas into Reality, One Line at a Time 🌟 | Super Curious and Always Eager to Learn 📚
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="vscode" width="45" height="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -27,10 +25,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shania873&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=transparent)
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
