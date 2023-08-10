@@ -29,9 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </p>
 
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=radical)
 ---
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shania873&theme=dark&hide_border=true" width="400">
 </p>
