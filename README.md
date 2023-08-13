@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Svelte, Java, ColdFusion, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://www.carolinevanaerschot.com/](https://www.carolinevanaerschot.com/)
+- 👨‍💻 All of my projects are available at [there](https://www.carolinevanaerschot.com/)
 
 - 💬 Ask me about **React, Javascript, and PHP**
 
-- 📄 Know about my experiences [https://www.carolinevanaerschot.com/static/media/CV_Caroline_van_Aerschot_2023.cc491eecd5aa4e509701.pdf (https://www.carolinevanaerschot.com/static/media/CV_Caroline_van_Aerschot_2023.cc491eecd5aa4e509701.pdf)
+- 📄 Know about my experiences [there] (https://www.carolinevanaerschot.com/static/media/CV_Caroline_van_Aerschot_2023.cc491eecd5aa4e509701.pdf)
 
 - ⚡ Fun fact **I am funny with jokes not wealy fun**
 
