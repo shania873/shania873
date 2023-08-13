@@ -38,9 +38,9 @@
 
 ---
 
-<p align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=shania873&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
-</p>
+
 
 
 ---
