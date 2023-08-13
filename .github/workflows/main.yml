@@ -8,13 +8,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: Snake Animation
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: shania873
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
