@@ -22,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shania873" alt="shania873" /></p>
 
+![Ta description ici]((https://github-readme-stats.vercel.app/api/wakatime?username=shania873))
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shania873" alt="shania873" /></p>
 
