@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shania873&show_icons=true&locale=en&layout=compact&token=${{ secrets.TOKEN }}" alt="shania873" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&locale=en&token=${{ secrets.TOKEN }}" alt="shania873" /></p>
+<p>&nbsp;<img align="center" src="bit.ly/3QCFFBP" alt="shania873" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shania873&token=${{ secrets.TOKEN }}" alt="shania873" /></p>
