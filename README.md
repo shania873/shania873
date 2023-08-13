@@ -19,5 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shania873&show_icons=true&locale=en&layout=compact" alt="shania873" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="shania873" /></p>
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shania873)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shania873" alt="shania873" /></p>
