@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Caroline van Aerschot</h1>
 <h3 align="center">A (very very even too much) passionate developer and graphic designer from Belgium</h3>
 
-[[![trophy]([https://github-profile-trophy.vercel.app/?username=shania873](https://github-profile-trophy.vercel.app/?username=shania873&title=Followers)")](https://github.com/shania873/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=shania873&title=Commit)
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers" alt="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers" />
 
 - 🌱 I’m currently learning **Svelte, Java, ColdFusion, Firebase**
 
