@@ -24,4 +24,14 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shania873)](https://github.com/anuraghazra/github-readme-stats)
 
+<img
+  src="https://github.com/shania873/shania873/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 
