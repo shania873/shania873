@@ -34,4 +34,3 @@ Example:
   alt="Avinal WakaTime Activity"
 />
 
-
