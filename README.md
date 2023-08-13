@@ -40,6 +40,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shania873&show_icons=true&theme=bear" width="400">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beumsk&theme=dark&background=000000)](https://git.io/streak-stats)
 </p>
+
+______
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shania873&theme=dark&background=000000)](https://git.io/streak-stats)
 
