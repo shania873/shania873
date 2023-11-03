@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=shania873&title=Repo,Commit" alt="https://github-profile-trophy.vercel.app/?username=shania873&title=Repo,Commit" />
 
-- 🌱 I’m currently learning **Svelte, Java, ColdFusion, Firebase**
+- 🌱 I’m currently learning **Node.js (Server side), Github Actions, Test Units**
 
 - 👨‍💻 All of my projects are available at [here](https://www.carolinevanaerschot.com/)
 
