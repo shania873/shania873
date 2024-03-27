@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Angular, AngularJS, React, Javascript, and PHP**
 
-- 📄 Know about my experiences [here](https://www.carolinevanaerschot.com/static/media/CV_Caroline_van_Aerschot_2023.cc491eecd5aa4e509701.pdf)
-
 - ⚡ Fun fact **I am funny with jokes not really fun**
 
 <h3 align="left">Languages and Tools:</h3>
